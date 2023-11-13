@@ -1,2 +1,2 @@
 # Stopwatch
-this project is a stopwatch using HTML 5 CSS JavaScript
+This project is a stopwatch using HTML5 CSS JavaScript
