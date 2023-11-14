@@ -5,7 +5,7 @@ The HTML structure includes a stopwatch container with a display element (displa
 The CSS provides styling for the overall layout, including a centered display, spaced control buttons, and a clean button design. The color scheme is set to a dark background with white text.
 
 
-The JavaScript logic includes functions for starting/stopping the stopwatch (startStop), stopping the stopwatch (stop), resetting the stopwatch (reset), updating the time (updateTime), and formatting the time display (displayTime).
+The JavaScript logic includes functions for starting the stopwatch (start), stopping the stopwatch (stop) and resetting the stopwatch (reset)
 4. Start Logic:
 The start function starts the stopwatch. It uses setInterval to call the updateTime function every second when starting.
 5. Stop Function:
